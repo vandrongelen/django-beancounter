@@ -1,3 +1,7 @@
+Test
+====
+This is a test in how to use GIT.
+
 Requirements
 ============
 
